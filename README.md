@@ -7,3 +7,9 @@
 </p>
 
 # Análise de Teste Bechdel com Notas do IMDB
+
+## Objetivo ##
+
+<p>Contribuir com um trabalho analítico extraindo informações e storytelling baseados em dados para insights bem como, uma forma de desenvolver e consolidar meus conhecimentos no campo da análise de dados desenvolvendo uma análise descritiva com o uso da linguagem de programação R através da IDE RStudio.</p>
+
+## Origem dos Dados ##
